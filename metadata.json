@@ -1,0 +1,6 @@
+{
+  "name": "AI Physics Tutor",
+  "description": "Interactive AI Physics Tutor providing step-by-step solutions, concepts, formulas, and visual diagrams from text, images, and voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
